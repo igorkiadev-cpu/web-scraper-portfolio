@@ -1,11 +1,11 @@
 # Web Scraping Automation (Python)
 
-This project demonstrates automated data extraction from a website, converting structured information into CSV format for analysis or business use.
+This project demonstrates an automated data extraction workflow built in Python.  
+It collects structured information from a list of SaaS companies and exports the data into CSV and XLSX formats.
 
 ---
 
 ## 🔧 Technologies Used
-
 - Python
 - Requests
 - BeautifulSoup4
@@ -14,40 +14,12 @@ This project demonstrates automated data extraction from a website, converting s
 ---
 
 ## 📌 Features
-
-✔ Extracts structured data  
-✔ Handles pagination (if required)  
-✔ Exports to CSV  
-✔ Can adapt to different websites (e-commerce, real estate, B2B, etc)  
-
----
-
-## 📁 Included Files
-
-`scraper.py` — scraping source code  
-`sample_output.csv` — extracted sample dataset  
-`requirements.txt` — dependencies for running the script  
-`/screenshots` — input/output visual examples  
+✔ Extracts structured company data  
+✔ Easy to expand with more fields  
+✔ Exports to **CSV** and **Excel (XLSX)**  
+✔ Clean and reusable Python code  
+✔ Ideal for Lead Generation, Market Research, Automation Projects
 
 ---
 
-## 🧾 Sample Output
-
-Example of extracted CSV:
-
-See: `sample_output.csv`
-
----
-
-## 📸 Screenshots
-
-Examples of website and processed data:
-
-![Website](./screenshots/website.png)  
-![CSV Output](./screenshots/csv.png)
-
----
-
-## ▶ How to Run
-
-Install dependencies:
+## 📁 Project Structure
