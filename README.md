@@ -41,6 +41,14 @@ This project eliminates that manual overhead through Python automation — a val
 
 ---
 
+## 🚀 Future Improvements
+- Add multi-source scraping
+- Add email/contact enrichment
+- Add CSV → CRM automatic sync
+- Add proxy rotation for scale
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -79,38 +87,37 @@ Example dataset included: `sample_output.csv`
 
 ## ▶ How to Run
 
-1. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
-2. Run the scraper:
 python scraper.py
-3. Check the exported files in /data
+```
+
+Check the exported files in `/data`
 
 ---
 
 📦 Output Formats
 
-✔ CSV
-✔ Excel (XLSX)
+✔ CSV (example)
+
+```csv
+name,category,website
+Notion,Productivity,https://www.notion.so
+Slack,Communication,https://slack.com
+HubSpot,CRM,https://hubspot.com
+```
+
+
+✔ Excel (XLSX) — compatible with CRM enrichment & BI tools
+
 
 ## 📈 Use Cases
 - Generate leads quickly for sales teams
-
 - Conduct market research and discover SaaS opportunities
-
 - Automate data collection workflows efficiently
-
 - Perform competitive analysis and benchmarking
-
 - Enrich CRM databases with structured SaaS data
 
-
-💡 Notes
-
-Code is modular and can be extended to scrape new fields.
-
-Can integrate with APIs or CRMs if needed.
 
 ---
 
@@ -120,5 +127,3 @@ Can integrate with APIs or CRMs if needed.
 
 ---
 
-## ✔ Status
-Project ready for demonstration and extension.
