@@ -36,8 +36,39 @@ It collects structured information from a list of SaaS companies and exports the
 ---
 
 ## 📸 Screenshots
-- Website Sources  
-- Exported Data (CSV/XLSX)  
+### 1. Terminal Opened
+![Terminal Opened](screenshots/01-terminal-aberto.png)
+
+### 2. Python Version Check
+![Python Version](screenshots/02-python-version.png)
+
+### 3. Navigated to Project Folder
+![Navigated to Folder](screenshots/03-navegou-para-pasta.png)
+
+### 4. Running the Scraper
+![Running Scraper](screenshots/04-execucao-do-scraper.png)
+
+### 5. Output Files Generated
+![Output Files](screenshots/05-arquivos-gerados.png)
+
+### 6. Extracted Data Preview
+![Extracted Data](screenshots/06-dados-extraidos.png)
+
+### 7. Scraper Completed Successfully
+![Scraper Completed](screenshots/07-scraper-completed.png)
+
+### 8. Exported Output Files
+![Output Export](screenshots/08-output-files.png)
+
+### 9. Data Folder Contents
+![Data Folder](screenshots/09-data-folder.png)
+
+### 10. CSV Output Preview
+![CSV Output](screenshots/10-dataset-csv.png)
+
+### 11. Excel Output Preview
+![XLSX Output](screenshots/11-dataset-xlsx.png)
+  
 
 ---
 
