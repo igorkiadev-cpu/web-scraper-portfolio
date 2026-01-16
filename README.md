@@ -36,6 +36,8 @@ It collects structured information from a list of SaaS companies and exports the
 ---
 
 ## 📸 Screenshots
+## 📸 Execution Preview
+
 ### 1. Terminal Opened
 ![Terminal Opened](screenshots/01-terminal-aberto.png)
 
@@ -68,7 +70,6 @@ It collects structured information from a list of SaaS companies and exports the
 
 ### 11. Excel Output Preview
 ![XLSX Output](screenshots/11-dataset-xlsx.png)
-  
 
 ---
 
