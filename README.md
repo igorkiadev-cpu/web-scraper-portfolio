@@ -1,5 +1,5 @@
-# Web Scraping Automation (Python)
-
+“Automated Web Scraper for SaaS Lead Generation | Python & Excel/CSV Export”
+“Automatically collects and structures SaaS company data, saving hours of manual research and providing actionable insights for sales and marketing teams.”
 This project demonstrates an automated data extraction workflow built in Python.  
 It collects structured information from a list of SaaS companies and exports the data into CSV and XLSX formats.
 
