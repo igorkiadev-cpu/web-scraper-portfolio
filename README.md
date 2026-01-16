@@ -23,8 +23,6 @@ It collects structured information from a list of SaaS companies and exports the
 ---
 
 ## 📁 Project Structure
-.
-## 📁 Project Structure
 ```
 .
 ├── scraper.py            # Main scraping logic
@@ -34,8 +32,6 @@ It collects structured information from a list of SaaS companies and exports the
 ├── screenshots/          # Visual documentation
 └── README.md             # Project documentation
 ```
-
-
 
 ---
 
@@ -61,7 +57,6 @@ pip install -r requirements.txt
 ```
 python scraper.py
 ```
-
 
 3. Check the exported files in `/data`
 
