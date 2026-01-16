@@ -23,16 +23,12 @@ It collects structured information from a list of SaaS companies and exports the
 ---
 
 ## 📁 Project Structure
-.
-├── scraper.py # Main scraping logic
-├── requirements.txt # Dependencies
-├── sample_output.csv # Example extracted dataset
-├── data/ # Exported results (auto-generated)
-├── screenshots/ # Visual documentation
-└── README.md # Project documentation
-
-yaml
-Copiar código
+scraper.py # Main scraping logic
+requirements.txt # Dependencies
+sample_output.csv # Example extracted dataset
+data/ # Exported results (auto-generated)
+screenshots/ # Visual documentation
+README.md # Project documentation
 
 ---
 
@@ -52,14 +48,11 @@ Example dataset included in: `sample_output.csv`
 1. Install dependencies:
 pip install -r requirements.txt
 
-markdown
-Copiar código
 
 2. Run the scraper:
-python scraper.py
+3. python scraper.py
 
-yaml
-Copiar código
+
 
 3. Check the exported files in `/data`
 
@@ -90,3 +83,9 @@ This project can be adapted for:
 
 ## ✔ Status
 Project ready for demonstration and extension.
+
+
+
+
+
+
