@@ -84,9 +84,7 @@ Example dataset included: `sample_output.csv`
 pip install -r requirements.txt
 
 2. Run the scraper:
-
 python scraper.py
-
 3. Check the exported files in /data
 
 ---
